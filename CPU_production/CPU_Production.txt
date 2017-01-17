@@ -1,0 +1,58 @@
+1 slide:
+    Hello everybody. My name is Valerii Konychev. And today I'm going to talk
+    about a CPU production. We'll see the whole way from sand to the
+    microprocessor.
+2 slide:
+    This way consists of many parts, and incorporates many sciences. Modern
+    CPU is a piece of art and modern engineers should to understand how this
+    art is produced.
+    So let's together look at the CPU production.
+3 slide:
+    All begins with a sand. From the sand engineers get an inot of a pure
+    silicon. The purity of the silicon is about 99.9999%. After that the ignot
+    will be sliced and we'll get a base of the future microprocessors, it's
+    сalled a wafer.
+    This concludes the first part of CPU production. So let's move to next
+    step.
+4 slide:
+    It's a photolithography time.
+    In the first step a layer of photo resist is laid down on the wafer top.
+    In the next step the photo resist finish is exposed to ultra violet light.
+    The exposure is done using masks and lenses. The photo resist layer that’s
+    exposed to UV light will become soluble.
+5 slide:
+    And this lead us to the next step, Ion Implantation.
+    Firstly, the soluble photo resist will be washed off by a solvent.
+    Secondly, the wafer will be bombarded with a beam of ions which embed
+    themselves beneath the surface of the wafer to alter the conductive
+    properties of the silicon in selected locations. And thirdly, photo resist
+    will be completely removed.
+6 slide:
+    The next step is etching.
+    Wafer is covered by a dielectric, which is covered by a photo resist.
+    After that we are applying the photolithography and washing off soluble
+    photoresist. Ubcovered dielectric is etched away with chemicals. Finaly,
+    the photoresist is completely removed and the desired shape becomes
+    visible.
+    We need to repeat this step again, but with metal instead of dielectric.
+7 slide: Metal Deposition
+    This transistor is close to being finished. Three holes have been etched
+    into the insulation layer (red color) above the transistor. These three
+    holes will be filled with copper or other material which will make up the
+    connections to other transistors.The copper ions are deposited onto the
+    transistor thru a process called electroplating.
+8 slide: Metal Layers
+    The excess material is polished off. After Multiple metal layers are
+    created to interconnect (think: wires) in between the various transistors.
+9 slide:
+    And it's final. We need only slice the wafer and pack the chip. It's all.
+    Now, we have a cutting edge microprecessor.
+10 slide:
+    Let me to summarize. After my presentation you know about CPU production in
+    generally and in particular: pure silicon ignot, wafer, photolithography,
+    Ion Implantation e.t.c.
+11 slide:
+    In conlusion, CPU production is the one of the most modern, most interest
+    and the widest sphere today. I very much hope that you are interested in
+    after my speech.
+    Thank you for your attantion. Now, I am happy to answer your questions.
